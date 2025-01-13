@@ -8,4 +8,4 @@
 - **Lightweight Rendering**: Optimized rendering using SFML.NET for smooth performance.
 - **Reusable Components**: Shareable systems between the editor and games for seamless integration.
 
-JAMES is open-source and designed for both learning and professional use. Feel free to explore, contribute, or use it as a foundation for your next project! Licensed under [MIT License](LICENSE).
+JAMES is open-source and designed for both learning and professional use. Feel free to explore, contribute, or use it as a foundation for your next project! Licensed under [MIT License](LICENSE.txt).
